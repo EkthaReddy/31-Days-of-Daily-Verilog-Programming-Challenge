@@ -1,4 +1,4 @@
-## Daily Verilog Programming Challenge
+# Daily Verilog Programming Challenge
 
 ## Overview
 
