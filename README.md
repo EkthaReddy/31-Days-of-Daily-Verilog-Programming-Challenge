@@ -1,4 +1,4 @@
-# Daily Verilog Programming Challenge
+## Daily Verilog Programming Challenge
 
 ## Overview
 
@@ -34,21 +34,7 @@ I am always looking to grow and improve. If you have any suggestions for topics,
 
 ## Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@YourTwitterHandle](#)
-- **Email:** [YourEmail@example.com](#)
+- **LinkedIn:** [www.linkedin.com/in/ekthareddy](#)
+- **Email:** [reddyektha1@gmail.com](#)
 
-Thank you for visiting my repository. I hope you find these Verilog programming exercises as insightful and enjoyable as I did. Happy coding!
-
----
-
-Feel free to fork this repository, star it if you find it useful, and share it with others who might benefit from the daily Verilog programming challenge.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Connect with Me
-LinkedIn: Your LinkedIn Profile
-Twitter: @YourTwitterHandle
-Email: YourEmail@example.com
 Thank you for visiting my repository. I hope you find these Verilog programming exercises as insightful and enjoyable as I did. Happy coding!
