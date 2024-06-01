@@ -1,10 +1,13 @@
-# Daily Verilog Challenge - Day 1: AND Gate
+Daily Verilog Challenge - Day 1: AND Gate
+=========================================
 Welcome to Day 1 of the Daily Verilog Challenge! Today's challenge is to implement a basic AND gate in Verilog.
 
-## Objective
+ Objective
+-----------
 The goal of this challenge is to familiarize yourself with the basic syntax of Verilog by implementing a simple AND gate. An AND gate is a fundamental building block in digital logic, which outputs a high signal (1) only when all its inputs are high.
 
-## Simulation
+  Simulation
+-------------
 - Open Vivado and create a new project.
 - Add the file different file names to your design and testbench for your project.
 - Run the simulation to ensure that the AND gate behaves as expected according to the truth table.
