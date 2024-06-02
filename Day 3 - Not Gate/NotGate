@@ -1,0 +1,24 @@
+Daily Verilog Challenge - Day 3: NOT Gate
+=========================================
+
+Welcome to Day 3 of the Daily Verilog Challenge! Today's challenge is to implement a basic NOT gate in Verilog.
+
+Objective
+---------
+The goal of this challenge is to familiarize yourself with the basic syntax of Verilog by implementing a simple NOT gate. A NOT gate is a fundamental building block in digital logic, which outputs a high signal (1) when its input is low (0) and outputs a low signal (0) when its input is high (1).
+
+Simulation
+----------
+- Open Vivado and create a new project.
+- Add the file different file names to your design and testbench for your project.
+- Run the simulation to ensure that the NOT gate behaves as expected according to the truth table.
+
+You can find all the code and the challenges in this repository: Daily Verilog Challenge
+
+Happy Coding!
+
+
+
+
+
+
