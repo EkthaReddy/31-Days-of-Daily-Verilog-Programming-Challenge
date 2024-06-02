@@ -1,3 +1,6 @@
+// Three Types of modelling in OR Gate
+=======================================
+
 // Data Flow Modeling For OR Gate
 module Or_Gate_DF(
 input a,
