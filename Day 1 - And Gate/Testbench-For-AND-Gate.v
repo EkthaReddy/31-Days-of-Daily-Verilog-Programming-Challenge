@@ -1,4 +1,4 @@
-## Testbench for AND Gate
+// Testbench for AND Gate in Data Flow modeling 
 
 module And_Gate_tb;
     reg a, b;
