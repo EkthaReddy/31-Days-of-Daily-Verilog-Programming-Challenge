@@ -1,0 +1,19 @@
+Daily Verilog Challenge - Day 2: OR Gate
+========================================
+
+Welcome to Day 2 of the Daily Verilog Challenge! Today's challenge is to implement a basic OR gate in Verilog.
+
+Objective
+---------
+The goal of this challenge is to familiarize yourself with the basic syntax of Verilog by implementing a simple OR gate. An OR gate is a fundamental building block in digital logic, which outputs a high signal (1) when at least one of its inputs is high.
+
+Simulation
+----------
+
+- Open Vivado and create a new project.
+- Add different file names for your design and testbench for your project.
+- Run the simulation to ensure that the OR gate behaves as expected according to the truth table.
+
+You can find all the code and the challenges in this repository: Daily Verilog Challenge
+
+Happy Coding!
