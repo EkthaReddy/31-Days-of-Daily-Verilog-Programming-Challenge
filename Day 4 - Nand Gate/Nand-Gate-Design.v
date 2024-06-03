@@ -1,4 +1,7 @@
+// Three Types of modelling in NAND Gate
+=======================================
 
+// Data Flow Modeling For NAND Gate
 
 module Nand_Gate_DF(
 input a, b,
@@ -8,6 +11,7 @@ output y
 endmodule
 
   -------------------------------------
+// Behavioural Modeling For NAND Gate
 
   module Nand_Gate_BM(
 input a,b,
@@ -19,6 +23,7 @@ endmodule
 
 
   -----------------------------------------
+// Structural Modeling For NAND Gate
 
   module Nand_Gate_SM(
 input a,b,
