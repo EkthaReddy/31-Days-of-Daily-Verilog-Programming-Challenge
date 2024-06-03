@@ -1,0 +1,19 @@
+Daily Verilog Challenge - Day 3: NAND Gate
+==========================================
+
+Welcome to Day 3 of the Daily Verilog Challenge! Today's challenge is to implement a basic NAND gate in Verilog.
+
+Objective
+----------
+The goal of this challenge is to familiarize yourself with the basic syntax of Verilog by implementing a simple NAND gate. A NAND gate is a fundamental building block in digital logic, which outputs a low signal (0) only when all its inputs are high. Otherwise, it outputs a high signal (1).
+
+Simulation
+-----------
+- Open Vivado and create a new project.
+- Add the file different file names to your design and testbench for your project.
+- Run the simulation to ensure that the NAND gate behaves as expected according to the truth table.
+
+
+You can find all the code and the challenges in this repository: Daily Verilog Challenge
+
+Happy Coding!
