@@ -23,3 +23,6 @@ module Nand_Gate_tb;
         $display("time=%0t Input: a=%b, b=%b, Output: y=%b", $time, a, b, y);
     end 
 endmodule
+
+
+/* Note: Just change the module name of the main design in the testbench for the instantiation of Structural or Behavioral modeling */
