@@ -1,4 +1,4 @@
-//Testbench
+//Testbench for Data flow modelling of Nand Gate
 
 module Nand_Gate_tb;
     reg a, b;
