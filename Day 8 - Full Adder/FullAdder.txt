@@ -1,0 +1,21 @@
+Daily Verilog Challenge - Day 8:FULL ADDER
+==========================================
+
+Description:
+--------------
+This repository contains the Verilog implementation of a full adder circuit. A full adder is a fundamental building block in digital circuit design, used to add three input bits and produce a sum and a carry-out.
+
+Features:
+--------
+
+- Verilog Implementation:
+The full adder circuit is implemented in Verilog hardware description language (HDL), making it suitable for synthesis and implementation on FPGA or ASIC platforms.
+- Testbench: 
+A comprehensive testbench is provided to verify the functionality and performance of the full adder design.
+- Modular Design:
+The full adder is designed using modular techniques, enabling easy integration into larger digital systems.
+- Documentation: 
+Detailed documentation is provided to explain the functionality of the full adder circuit and how to use it in your projects.
+
+
+Feel free to clone this repository and use the full adder design in your digital circuit projects. Contributions and feedback are welcome!
