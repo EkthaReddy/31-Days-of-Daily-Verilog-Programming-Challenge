@@ -12,7 +12,7 @@ endmodule
 
 ------------------------------------------------
 
-//Behavioral Modeling For OR Gate
+//Behavioral Modeling For XOR Gate
 
 module XOR_Gate_BM(
 input a,b,
@@ -25,7 +25,7 @@ endmodule
 
 --------------------------------------------------
 
-//Structural Modeling For OR Gate
+//Structural Modeling For XOR Gate
 
 module XOR_Gate_SM(
 input a,b,
