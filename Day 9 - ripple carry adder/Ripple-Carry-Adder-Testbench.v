@@ -1,11 +1,12 @@
 //testbench for Ripple Carry Adder
 
-module ripple_carry_adder_tb;
+module rca_tb;
+reg [3:0]a,b;
+reg cin;
+wire [3:0]sum;
+wire c4;
 
-reg a, b, cin;
-wire sum, carry;
-
-ripple_carry_adder_ dut(a,b,cin,sum,carry);
+rca dut(a,b,cin,sum,c4);
 
 initial begin
 $dumpfile("dump.vcd");
