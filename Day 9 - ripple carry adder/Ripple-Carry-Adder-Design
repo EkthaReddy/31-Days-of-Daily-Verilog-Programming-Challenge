@@ -1,0 +1,24 @@
+Daily Verilog Programming Challenge-Day 9 :- Ripple Carry Adder
+================================================================
+
+A Ripple Carry Adder is a digital circuit that produces the arithmetic sum of two binary numbers. This adder works by passing the carry output from each full adder to the carry input of the next full adder in the sequence. While it is simple and easy to understand, the primary disadvantage of the RCA is the time delay, which is proportional to the number of bits in the binary numbers being added.
+
+Features
+--------
+- Basic binary addition: Capable of adding two binary numbers of any length.
+- Scalable design: Easily extendable to larger bit-widths.
+- Modular implementation: Each bit addition is handled by a full adder module, making the design easy to understand and modify.
+- Educational purposes: Suitable for learning and teaching the basics of binary addition and digital logic design.
+
+Design of RCA
+---------------
+The Ripple Carry Adder is constructed using a series of full adders connected in sequence. Each full adder computes the sum of corresponding bits of the two binary numbers and the carry from the previous full adder.
+
+*Full Adder*
+A full adder takes three inputs and two outputs
+
+Sum = A ⊕ B ⊕ Cin
+Carry-out = (A & B) | (B & Cin) | (A & Cin)
+
+*Ripple Carry Adder*
+A n-bit Ripple Carry Adder consists of n full adders. The carry-out of each full adder is connected to the carry-in of the next full adder in the sequence.
