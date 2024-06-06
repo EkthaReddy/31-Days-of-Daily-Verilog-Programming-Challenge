@@ -1,29 +1,28 @@
-// 4-bit rpple carry adder
+// 4-bot rpple carry adder
 //To construct a 4 bit ripple carry adder we will instantiate it with full adder
 
 //full adder design
-module Full_Adder(
-output sum, carry,
-input a,b,cin
+module full_adder(
+    input a,b,cin,
+    output sum,carry);
 
-    );
-    assign sum=a^b^cin;
-    assign carry= (a&b)|(cin&(a^b));
+assign sum = a ^ b ^ cin;
+assign carry = (a & b)|(b & cin)|(cin & a);
+                
 endmodule
 
-
 // Design of ripple carry adder
-module ripple_carry_adder_(
-output [3:0]sum, [3:0]carry,
-input [3:0]a, [3:0]b,
-input cin
+module rca(
+    input [3:0]a,b,
+    input cin,
+    output [3:0]sum,
+    output c4);
 
-    );
+wire c1,c2,c3;      //Carry out of each full adder
 
-    
-    Full_Adder fa0(sum[0], carry[0], a[0], b[0], cin);
-    Full_Adder fa1(sum[1], carry[1], a[1], b[1], carry[0]);
-    Full_Adder fa2(sum[2], carry[2], a[2], b[2], carry[1]);
-    Full_Adder fa3(sum[3], carry[3], a[3], b[3], carry[2]);
-    
+full_adder fa0(a[0],b[0],cin,sum[0],c1);
+full_adder fa1(a[1],b[1],c1,sum[1],c2);
+full_adder fa2(a[2],b[2],c2,sum[2],c3);
+full_adder fa3(a[3],b[3],c3,sum[3],c4);
+                
 endmodule
