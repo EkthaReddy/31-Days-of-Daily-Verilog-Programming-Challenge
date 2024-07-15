@@ -58,35 +58,35 @@ This repository is organized into folders for each day of the challenge, contain
 
 [Day 16 - Multiplexer](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2016%20-%20Multiplexer)
 
-[Day 17 - Demultiplexer]
+[Day 17 - Demultiplexer](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2017%20-%20Demultiplexer)
 
-[Day 18 - D Flip Flop]
+[Day 18 - D Flip Flop](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2018%20-%20D%20Flip%20Flop)
 
-[Day 19 - T Flip Flop]
+[Day 19 - T Flip Flop](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2019%20-%20T%20Flip%20Flop)
 
-[Day 20 - JK Flip Flop]
+[Day 20 - JK Flip Flop](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2020%20-%20JK%20Flip%20Flop)
 
-[Day 21 - SR Flip Flop]
+[Day 21 - SR Flip Flop](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2021%20-%20SR%20Flip%20Flop)
 
-[Day 22 - SR Latch]
+[Day 22 - SR Latch](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2022%20-%20SR%20Latch)
 
-[Day 23 - D Latch]
+[Day 23 - D Latch](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2023%20-%20D%20Latch)
 
-[Day 24 - Decoder]
+[Day 24 - Decoder](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2024%20-%20Decoder)
 
-[Day 25 - Encoder]
+[Day 25 - Encoder](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2025%20-%20Encoder)
 
-[Day 26 - Up Counter]
+[Day 26 - Up Counter](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2026%20-%20Up%20Counter)
 
-[Day 27 - Down Counter]
+[Day 27 - Down Counter](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2027%20-%20Down%20Counter)
 
-[Day 28 - UpDown Counter]
+[Day 28 - UpDown Counter](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2028%20-%20UpDown%20Counter)
 
-[Day 29 - Asynchronous Counter]
+[Day 29 - Asynchronous Counter](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2029%20-%20Asynchronous%20Counter)
 
-[Day 30 - Binary to Gray Code]
+[Day 30 - Binary to Gray Code](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2030%20-%20Binary%20to%20Gray%20Code)
 
-[Day 31 - Gray to Binary Code]
+[Day 31 - Gray to Binary Code](https://github.com/EkthaReddy/31-Days-of-Daily-Verilog-Programming-Challenge/tree/main/Day%2031%20-%20Gray%20to%20Binary%20Code)
 
 
 ## Contribution and Suggestions
