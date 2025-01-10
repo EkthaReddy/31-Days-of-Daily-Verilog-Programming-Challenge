@@ -1,15 +1,15 @@
-// JK Flip Flop Design
+// SR Flip Flop Design
 
-module JK_Flip_Flop(
-input J, K, clk, 
-output reg q
-    );
+module SR_Flip_Flop(
+    input S, R, clk, 
+    output reg q
+);
     always @(posedge clk) begin
-        case ({J,K}) 
-            2'b00: q<=q;
-            2'b01: q<=1'b0;
-            2'b10: q<=1'b1;
-            2'b11: q<=~q;
+        case ({S, R})
+            2'b00: q <= q;       // Hold state
+            2'b01: q <= 1'b0;    // Reset state
+            2'b10: q <= 1'b1;    // Set state
+            2'b11: q <= 1'bx;    // Invalid state
         endcase
     end
 endmodule
